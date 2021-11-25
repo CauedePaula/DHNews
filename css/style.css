@@ -1,0 +1,16 @@
+main{
+    background-color: aliceblue;
+    width: 80%;
+    margin: 50px 10% 50px 10%;
+    border-radius: 30px;
+}
+img{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    display: block;
+
+}
+body{
+    background-color: brown;
+}
